@@ -1,1 +1,3 @@
-# coding-project-template
+# E-PlantShopping
+
+This app is a marketplace to buy plants
